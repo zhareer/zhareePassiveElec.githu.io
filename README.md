@@ -8,12 +8,10 @@ Passive circuits are fundamental building blocks in electronics, consisting of c
 ---
 
 ## Key Components of Passive Circuits
-
 ### 1. Resistors
 Resistors are used to limit current and divide voltage in a circuit. They dissipate energy in the form of heat and are characterized by their resistance value, measured in ohms (Ω).
 
-
-![image Alt](https://github.com/zhareer/zhareePassiveElec.githu.io/blob/1314795ae1004592c2ad44252450828af7e7975e/Res.PNG)
+<img src="https://github.com/zhareer/zhareePassiveElec.githu.io/blob/1314795ae1004592c2ad44252450828af7e7975e/Res.PNG" alt="image Alt" width="400">
 
 ### 2. Capacitors
 Capacitors store electrical energy in an electric field and are used for filtering, energy storage, and signal coupling. Their capacitance is measured in farads (F).
