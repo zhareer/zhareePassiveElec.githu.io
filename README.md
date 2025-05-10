@@ -13,7 +13,7 @@ Passive circuits are fundamental building blocks in electronics, consisting of c
 Resistors are used to limit current and divide voltage in a circuit. They dissipate energy in the form of heat and are characterized by their resistance value, measured in ohms (Ω).
 
 **Example of Lab3 Image:**
-![Alt Text](Lab3.jpg)
+![image Alt](https://github.com/zhareer/zhareePassiveElec.githu.io/blob/81c87a6c3582fe44864485a7c5428b8958630cb5/Lab3.jpg)
 
 ### 2. Capacitors
 Capacitors store electrical energy in an electric field and are used for filtering, energy storage, and signal coupling. Their capacitance is measured in farads (F).
