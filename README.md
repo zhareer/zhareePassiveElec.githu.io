@@ -12,7 +12,7 @@ Passive circuits are fundamental building blocks in electronics, consisting of c
 ### 1. Resistors
 Resistors are used to limit current and divide voltage in a circuit. They dissipate energy in the form of heat and are characterized by their resistance value, measured in ohms (Ω).
 
-**Example of Lab3 Image:**
+
 ![image Alt](https://github.com/zhareer/zhareePassiveElec.githu.io/blob/1314795ae1004592c2ad44252450828af7e7975e/Res.PNG)
 
 ### 2. Capacitors
