@@ -12,10 +12,8 @@ Passive circuits are fundamental building blocks in electronics, consisting of c
 ### 1. Resistors
 Resistors are used to limit current and divide voltage in a circuit. They dissipate energy in the form of heat and are characterized by their resistance value, measured in ohms (Ω).
 
-**Example of a resistor:**
-![Resistor](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Resistor.jpg/320px-Resistor.jpg)
-
----
+**Example of Lab3 Image:**
+![Lab3 Image](./Lab3.jpg)
 
 ### 2. Capacitors
 Capacitors store electrical energy in an electric field and are used for filtering, energy storage, and signal coupling. Their capacitance is measured in farads (F).
